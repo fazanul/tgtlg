@@ -38,7 +38,7 @@ from .sample_config import Config
 
 # TODO: is there a better way?
 
-TG_BOT_TOKEN = 5578137315:AAHYeQRrQym-UPqhMLTdCGk1Ygta5Xn9fCc
+TG_BOT_TOKEN = "5578137315:AAHYeQRrQym-UPqhMLTdCGk1Ygta5Xn9fCc"
 
 APP_ID = 18098654
 
